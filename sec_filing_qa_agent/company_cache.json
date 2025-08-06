@@ -1,0 +1,165 @@
+{
+  "AAPL": {
+    "ticker": "AAPL",
+    "cik": "0000000000",
+    "name": "Apple Inc.",
+    "sic": null,
+    "sector": null,
+    "subsector": null,
+    "_ts": 1754427032.0584
+  },
+  "MSFT": {
+    "ticker": "MSFT",
+    "cik": "0000000000",
+    "name": "MICROSOFT CORP",
+    "sic": null,
+    "sector": null,
+    "subsector": null,
+    "_ts": 1754427032.163577
+  },
+  "JPM": {
+    "ticker": "JPM",
+    "cik": "0000000000",
+    "name": "JPMORGAN CHASE & CO",
+    "sic": null,
+    "sector": null,
+    "subsector": null,
+    "_ts": 1754427032.270983
+  },
+  "GOOGL": {
+    "ticker": "GOOGL",
+    "cik": "0000000000",
+    "name": "Alphabet Inc.",
+    "sic": null,
+    "sector": null,
+    "subsector": null,
+    "_ts": 1754427032.3713028
+  },
+  "AMZN": {
+    "ticker": "AMZN",
+    "cik": "0000000000",
+    "name": "AMAZON COM INC",
+    "sic": null,
+    "sector": null,
+    "subsector": null,
+    "_ts": 1754427032.4964092
+  },
+  "META": {
+    "ticker": "META",
+    "cik": "0000000000",
+    "name": "Meta Platforms, Inc.",
+    "sic": null,
+    "sector": null,
+    "subsector": null,
+    "_ts": 1754427032.614809
+  },
+  "NVDA": {
+    "ticker": "NVDA",
+    "cik": "0000000000",
+    "name": "NVIDIA CORP",
+    "sic": null,
+    "sector": null,
+    "subsector": null,
+    "_ts": 1754427032.723501
+  },
+  "XOM": {
+    "ticker": "XOM",
+    "cik": "0000000000",
+    "name": "EXXON MOBIL CORP",
+    "sic": null,
+    "sector": null,
+    "subsector": null,
+    "_ts": 1754427096.929286
+  },
+  "BP": {
+    "ticker": "BP",
+    "cik": "0000000000",
+    "name": "BP PLC",
+    "sic": null,
+    "sector": null,
+    "subsector": null,
+    "_ts": 1754427097.0929642
+  },
+  "TSLA": {
+    "ticker": "TSLA",
+    "cik": "0000000000",
+    "name": "Tesla, Inc.",
+    "sic": null,
+    "sector": null,
+    "subsector": null,
+    "_ts": 1754427097.267264
+  },
+  "CVX": {
+    "ticker": "CVX",
+    "cik": "0000000000",
+    "name": "CHEVRON CORP",
+    "sic": null,
+    "sector": null,
+    "subsector": null,
+    "_ts": 1754427219.334681
+  },
+  "BAC": {
+    "ticker": "BAC",
+    "cik": "0000000000",
+    "name": "BANK OF AMERICA CORP /DE/",
+    "sic": null,
+    "sector": null,
+    "subsector": null,
+    "_ts": 1754430332.1379058
+  },
+  "WFC": {
+    "ticker": "WFC",
+    "cik": "0000000000",
+    "name": "WELLS FARGO & COMPANY/MN",
+    "sic": null,
+    "sector": null,
+    "subsector": null,
+    "_ts": 1754430332.2936928
+  },
+  "IBM": {
+    "ticker": "IBM",
+    "cik": "0000000000",
+    "name": "INTERNATIONAL BUSINESS MACHINES CORP",
+    "sic": null,
+    "sector": null,
+    "subsector": null,
+    "_ts": 1754433469.134955
+  },
+  "CRM": {
+    "ticker": "CRM",
+    "cik": "0000000000",
+    "name": "Salesforce, Inc.",
+    "sic": null,
+    "sector": null,
+    "subsector": null,
+    "_ts": 1754434016.3291478
+  },
+  "COP": {
+    "ticker": "COP",
+    "cik": "0000000000",
+    "name": "CONOCOPHILLIPS",
+    "sic": null,
+    "_ts": 1754444745.632148
+  },
+  "KO": {
+    "ticker": "KO",
+    "cik": "0000000000",
+    "name": "COCA COLA CO",
+    "sic": null,
+    "_ts": 1754444819.018373
+  },
+  "PEP": {
+    "ticker": "PEP",
+    "cik": "0000000000",
+    "name": "PEPSICO INC",
+    "sic": null,
+    "_ts": 1754444819.0197718
+  },
+  "SBUX": {
+    "ticker": "SBUX",
+    "cik": "0000000000",
+    "name": "STARBUCKS CORP",
+    "sic": null,
+    "_ts": 1754444819.020247
+  }
+}
