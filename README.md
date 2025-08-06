@@ -108,5 +108,3 @@ sec-filing-qa-agent/
 * Output includes metadata such as companies analyzed, document types, time range, and any limitations or recommendations.
 
 ---
-
-如果你需要我再根據實際 repo 的 `requirements.txt` 或補充部署教學（如 Docker、HuggingFace、Streamlit Cloud）都可以再說。
